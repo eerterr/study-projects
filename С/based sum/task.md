@@ -26,16 +26,16 @@ index(1) = 495 → 495 + 10 = 505
 index(2) = 188 → 188 - 10 = 178
 index(3) = 2024 → 2024 + 10 = 2034`
 
-After that, we calculate the sum of the results and output it: `27 + 505 + 178 + 2034 = 2744`
+After that, we calculate the sum of the results and output it: 27 + 505 + 178 + 2034 = 2744
 
-Furthermore, you have to verify that the input is correct, and if not you have to output `"Invalid inputs"`.
+Furthermore, you have to verify that the input is correct, and if not you have to output "Invalid inputs".
 
-You should expect testcases that do not conform to the input restriction explained below in the input format section, and you have to handle these testcases by verifying that the input is correct, and if not you have to output `"Invalid inputs"`.
+You should expect testcases that do not conform to the input restriction explained below in the input format section, and you have to handle these testcases by verifying that the input is correct, and if not you have to output "Invalid inputs".
 
 An example of invalid inputs:
-`N = 2
+N = 2
 S = 2059 8163
-A = 16 8`
+A = 16 8
 
 because the first digit in _"8163"_ does not exist in the octal system (octal digits: [0, 1, 2, 3, 4, 5, 6, 7]).
 **Input**
@@ -51,9 +51,12 @@ The output should be written to output.txt and should contain the following:
 First line: an integer representing the decimal form of the sum of all numbers after performing the mentioned arithmetic operations or "Invalid inputs".
 Examples
 Input
->2
->2059 8163
-16 8
+`2
+
+2059 8163
+
+16 8`
+
 Output
 Invalid inputs
 Input
