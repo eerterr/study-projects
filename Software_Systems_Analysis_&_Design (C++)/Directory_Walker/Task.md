@@ -35,14 +35,14 @@ A single `FilePropertiesFactory` ensures that identical property sets share one 
 Clients request an iterator from any `Directory` to walk the subtree; the iterator prints a Linux-style tree (i.e., using `├──`, `└──`, `│`).
 
 **Example:**
-.
-├── tbzxhxll
-│ └── rnboyqtu.log (336KB)
-├── ypyzxdi
-│ ├── juyt
-│ └── ttplw.txt (809.8KB)
-├── oou.cpp (666KB)
-└── fhop
+.  
+├── tbzxhxll  
+│ └── rnboyqtu.log (336KB)  
+├── ypyzxdi   
+│ ├── juyt  
+│ └── ttplw.txt (809.8KB)  
+├── oou.cpp (666KB)  
+└── fhop  
 
 ### Visitor
 
@@ -121,9 +121,9 @@ FILE 0 T root docker 50.4 image.png
 
 **Output**
 total: 87.4KB
-.
-├── note.txt (12KB)
-├── project
-│ └── src
-│ └── code.cpp (25KB)
-└── image.png (50.4KB)
+.  
+├── note.txt (12KB)  
+├── project  
+│ └── src  
+│ └── code.cpp (25KB)  
+└── image.png (50.4KB)  
