@@ -68,7 +68,7 @@ COMMAND [arg1] [arg2] ...
 
 ---
 
-## 🧾 Supported Commands & Responses
+## Supported Commands & Responses
 
 ### `ADD_STUDENT [student_id] [name] [faculty]`
 
@@ -206,7 +206,7 @@ Student: student_id deleted
 
 ---
 
-## 📤 Output Format
+## Output Format
 
 Write all responses to `output.txt`, one line per result.  
 Always append a newline (`\n`) after each output line.
