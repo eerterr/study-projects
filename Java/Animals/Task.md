@@ -1,4 +1,4 @@
-# A. Assignment 4
+# Assignment 4. Animals
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes  
