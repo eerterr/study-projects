@@ -1,4 +1,4 @@
-# A. Smart Home system
+# Assigment 3. Smart Home system
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes
